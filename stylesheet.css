@@ -13,7 +13,7 @@ html {
 body {width: 100%; max-width: 100%}
 
 article {
-    text-align: center;
+    text-align:center;
     margin-top: 100px;
 }
 
@@ -66,7 +66,7 @@ strong {font-weight: 400; color: black;}
 
 .screenshot:last-child {margin-bottom: 0;}
 
-.screenshot img, #process {
+.screenshot img{
     width: 100%; 
     max-width: 1050px;
     padding: 40px;
@@ -76,7 +76,7 @@ strong {font-weight: 400; color: black;}
 
 .image {text-align: center}
 
-#process {max-width: 580px;}
+#process {width:100%; max-width: 580px; padding: 0 40px;}
 
 #symbol {
     max-width: 180px;
@@ -94,13 +94,16 @@ strong {font-weight: 400; color: black;}
     .screenshot {
     margin-bottom: 3em;
     margin-top: 3em;
-}
+    }
     
     .screenshot img {padding: 20px; padding-bottom: 0}
     
-	}
-
-
-@media screen and (min-aspect-ratio: 3/1) {
-    .image img {min-height: 600px;}
 }
+
+@media screen and (max-width:500px) {
+    h1 {font-size: 40px}
+    h2 {font-size: 22px;}
+    
+}
+
+@media screen and (min-aspect-ratio: 3/1) {}
