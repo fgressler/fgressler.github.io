@@ -38,31 +38,37 @@ h2 {font-size: 23px; font-weight: 300; margin-bottom: 60px; margin-top: 0;}
 
 h3 {font-size: 36px;}
 
-h4 {font-size: 25px;margin-top: 76px;}
+h4 {font-size: 25px;margin-top: 0px; }
 
 p, ul{
     font-family: 'Roboto Slab';
     font-weight: 300;
     margin-bottom: 2em;
     margin-top: 2em;
+    list-style:circle;
+    list-style:decimal-leading-zero;
     list-style-position: inside;
 }
-
 
 a {color: #3399ff;}
 a:visited {color: #3399ff;}
 a:hover {color: #006fdd;}
 
 
-strong {font-weight: 400; color: black;}
+strong {
+    font-weight: 300;
+    text-decoration: underline;
+}
 
 .screenshot {
     width: 100%;
-    background-color: #6bd1ff;
+    background-color: #60ffe0;
     margin-bottom: 6em;
     margin-top: 6em;
     text-align: center;
 }
+
+div.screenshot:nth-of-type(3) {}
 
 .screenshot:last-child {margin-bottom: 0;}
 
@@ -83,6 +89,36 @@ strong {font-weight: 400; color: black;}
     margin-bottom: 30px;
 }
 
+h5{font-size: 20px}
+
+ul.experience {
+    text-align: left;
+    font-size: 15px;
+    list-style: none;
+    max-width: 350px;
+
+}
+
+.experience li {
+    display: block;
+    height: 40px;
+}
+
+.experience p {margin: 0; min-width: 70px}
+
+.experience a, .experience p {float:left;}
+
+.experience p.job {width: auto}
+
+.experience a {
+    color: #434343;
+    text-decoration: none;
+    width: 120px;
+    }
+
+.experience a:hover {
+    text-decoration: underline;
+    }
 
 
 /*Media Queries*/

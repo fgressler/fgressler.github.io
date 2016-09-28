@@ -1,135 +1,155 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 511.6 545" style="enable-background:new 0 0 511.6 545;" xml:space="preserve">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 532.3 591.7" style="enable-background:new 0 0 532.3 591.7;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#0068E5;stroke-width:7;stroke-miterlimit:10;}
-	.st1{fill:#0068E5;}
-	.st2{fill:#B3FFEE;}
-	.st3{fill:none;}
-	.st4{fill:#191919;}
-	.st5{font-family:'OpenSans-Semibold';}
-	.st6{font-size:17.1px;}
-	.st7{font-family:'OpenSans-Light';}
-	.st8{font-size:18px;}
+	.st0{fill:none;stroke:#FF00AA;stroke-width:7;stroke-miterlimit:10;}
+	.st1{fill:#FF00AA;}
+	.st2{fill:none;stroke:#5BEBDA;stroke-width:5;stroke-miterlimit:10;}
+	.st3{fill:#004CBF;}
+	.st4{font-family:'OpenSans-Semibold';}
+	.st5{font-size:17.1px;}
+	.st6{font-family:'OpenSans-Light';}
+	.st7{display:none;}
+	.st8{display:inline;fill:none;stroke:#F2EB49;stroke-miterlimit:10;}
 </style>
-<g>
+<g id="Layer_1">
 	<g>
-		<path class="st0" d="M339.7,101.5c8.7,4.2,17,9,24.9,14.4"/>
 		<g>
-			<path class="st1" d="M374.9,123.4c-6.1-1.7-14.3-3-20.4-2.4l8.8-6l2.9-10.2C367.5,110.7,371.3,118.1,374.9,123.4z"/>
+			<g>
+				<path class="st0" d="M351.9,109.7c8.7,4.2,17,9,24.9,14.4"/>
+				<g>
+					<path class="st1" d="M387.2,131.3c-6.2-1.5-14.4-2.6-20.5-1.9l8.6-6.2l2.7-10.3C379.6,118.8,383.6,126.1,387.2,131.3z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<path class="st0" d="M470,276.1c1,9.6,1.3,19.2,0.8,28.8"/>
+				<g>
+					<path class="st1" d="M470.1,317.6c-1.9-6.1-5.3-13.7-9-18.4l9.8,4.1l10.2-3.1C476.8,304.6,472.6,311.7,470.1,317.6z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<path class="st0" d="M385.8,462.1c-7.8,5.7-15.9,10.8-24.4,15.3"/>
+				<g>
+					<path class="st1" d="M350.2,483.3c4.2-4.7,9-11.5,11.2-17.2l1.5,10.5l7.9,7.1C364.8,482.3,356.5,482.5,350.2,483.3z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<path class="st0" d="M179.6,481.7c-8.7-4.1-17.1-8.9-25-14.3"/>
+				<g>
+					<path class="st1" d="M144.2,460.3c6.2,1.5,14.4,2.6,20.5,1.9l-8.6,6.2l-2.7,10.3C151.8,472.8,147.8,465.5,144.2,460.3z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<path class="st0" d="M62.8,314.5c-1.2-9.6-1.6-19.2-1.4-28.8"/>
+				<g>
+					<path class="st1" d="M61.7,273.1c2.1,6,5.7,13.5,9.6,18.2l-9.9-3.8l-10.1,3.4C55.4,286.3,59.4,279,61.7,273.1z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<circle class="st2" cx="266.1" cy="80.9" r="75.6"/>
+		<g>
+			<text transform="matrix(1 0 0 1 217.2884 52.7597)" class="st3 st4 st5">Understand </text>
+			<text transform="matrix(1 0 0 1 209.4031 75.5595)" class="st3 st6 st5">What’s the real </text>
+			<text transform="matrix(1 0 0 1 216.6233 98.3593)" class="st3 st6 st5">problem and </text>
+			<text transform="matrix(1 0 0 1 223.5584 121.1596)" class="st3 st6 st5">who cares?</text>
+		</g>
+	</g>
+	<g>
+		<circle class="st2" cx="452.1" cy="188.3" r="75.6"/>
+		<g>
+			<text transform="matrix(1 0 0 1 424.2478 159.6091)" class="st3 st4 st5">Design</text>
+			<text transform="matrix(1 0 0 1 402.9675 182.4093)" class="st3 st6 st5">How can this </text>
+			<text transform="matrix(1 0 0 1 407.528 205.2092)" class="st3 st6 st5">problem be </text>
+			<text transform="matrix(1 0 0 1 423.9626 228.0094)" class="st3 st6 st5">solved?</text>
+		</g>
+	</g>
+	<g>
+		<circle class="st2" cx="452.1" cy="403.2" r="75.6"/>
+		<g>
+			<text transform="matrix(1 0 0 1 434.8894 374.0765)" class="st3 st4 st5">Test</text>
+			<text transform="matrix(1 0 0 1 404.9646 396.8763)" class="st3 st6 st5">The solution </text>
+			<text transform="matrix(1 0 0 1 389.5739 419.6761)" class="st3 st6 st5">makes sense for </text>
+			<text transform="matrix(1 0 0 1 410.8542 442.476)" class="st3 st6 st5">real users?</text>
+		</g>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 360.1075 336.9911)" class="st3 st6 st5">No</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 147.6022 336.9911)" class="st3 st6 st5">No</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 358.0952 510.7335)" class="st3 st6 st5">Yes</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 12.5695 303.9337)" class="st3 st6 st5">Yes</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 35.0205 74.4334)" class="st3 st6 st5">Information</text>
+	</g>
+	<g>
+		<circle class="st2" cx="80" cy="403.2" r="75.6"/>
+		<g>
+			<text transform="matrix(1 0 0 1 37.9842 374.0766)" class="st3 st4 st5">Validate &amp; </text>
+			<text transform="matrix(1 0 0 1 44.159 396.8764)" class="st3 st4 st5">Measure </text>
+			<text transform="matrix(1 0 0 1 31.9042 419.6762)" class="st3 st6 st5">After launch, </text>
+			<text transform="matrix(1 0 0 1 36.5595 442.476)" class="st3 st6 st5">did it work?</text>
+		</g>
+	</g>
+	<g>
+		<circle class="st2" cx="266.1" cy="510.7" r="75.6"/>
+		<text transform="matrix(1 0 0 1 236.99 516.637)" class="st3 st4 st5">Build it</text>
+	</g>
+	<g>
+		<circle class="st2" cx="80" cy="188.3" r="75.6"/>
+		<text transform="matrix(1 0 0 1 37.7605 193.6966)" class="st3 st4 st5">Celebrate!</text>
+	</g>
+	<g>
+		<g>
+			<path class="st0" d="M376.9,359.4c-65.5-31.8-110.8-99-110.8-176.7"/>
+			<g>
+				<path class="st1" d="M266.1,170c2.2,6,6,13.4,10,17.9l-10-3.6l-10,3.6C260.1,183.4,263.9,176,266.1,170z"/>
+			</g>
+		</g>
+	</g>
+	<path class="st0" d="M155.4,359.9c65.5-31.8,110.8-99,110.8-176.7"/>
+	<g>
+		<g>
+			<line class="st0" x1="163.6" y1="87.4" x2="0" y2="87.4"/>
+			<g>
+				<path class="st1" d="M176.3,87.4c-6-2.2-13.4-6-17.9-10l3.6,10l-3.6,10C162.9,93.4,170.3,89.6,176.3,87.4z"/>
+			</g>
 		</g>
 	</g>
 </g>
-<g>
-	<g>
-		<path class="st0" d="M436.6,257.9c1,9.6,1.3,19.2,0.8,28.8"/>
-		<g>
-			<path class="st1" d="M436.4,299.3c-1.8-6.1-5-13.8-8.7-18.6l9.7,4.3l10.2-2.9C443.3,286.4,439,293.5,436.4,299.3z"/>
-		</g>
-	</g>
+<g id="Layer_3" class="st7">
+	<circle class="st8" cx="266.1" cy="295.8" r="214.9"/>
+	<rect x="448.9" y="270.8" class="st8" width="55.8" height="50.1"/>
 </g>
-<g>
-	<g>
-		<path class="st0" d="M364.9,420.7c-7.8,5.7-15.9,10.8-24.4,15.3"/>
-		<g>
-			<path class="st1" d="M329.1,441.5c4.4-4.6,9.3-11.3,11.7-16.9l1.2,10.6l7.7,7.3C343.7,441,335.4,440.9,329.1,441.5z"/>
-		</g>
-	</g>
-</g>
-<g>
-	<g>
-		<path class="st0" d="M179.1,441.7c-8.7-4.1-17.1-8.9-25-14.3"/>
-		<g>
-			<path class="st1" d="M143.9,419.9c6.1,1.7,14.4,2.9,20.4,2.3l-8.7,6l-2.9,10.2C151.3,432.6,147.5,425.2,143.9,419.9z"/>
-		</g>
-	</g>
-</g>
-<g>
-	<g>
-		<path class="st0" d="M76.3,296.8c-1.2-9.6-1.6-19.2-1.4-28.8"/>
-		<g>
-			<path class="st1" d="M75.7,255.4c1.9,6.1,5.3,13.7,9,18.5l-9.8-4.1l-10.2,3.1C69,268.4,73.2,261.2,75.7,255.4z"/>
-		</g>
-	</g>
-</g>
-<circle class="st2" cx="255.8" cy="75.6" r="75.6"/>
-<circle class="st2" cx="436" cy="174.2" r="75.6"/>
-<circle class="st2" cx="436" cy="381.5" r="75.6"/>
-<g>
-	<rect x="185" y="30.2" class="st3" width="141.5" height="109.4"/>
-	<text transform="matrix(1 0 0 1 206.9551 47.1255)" class="st4 st5 st6">Understand </text>
-	<text transform="matrix(1 0 0 1 199.0698 69.9253)" class="st4 st7 st6">What’s the real </text>
-	<text transform="matrix(1 0 0 1 206.29 92.7251)" class="st4 st7 st6">problem and </text>
-	<text transform="matrix(1 0 0 1 213.2251 115.5254)" class="st4 st7 st6">who cares?</text>
-</g>
-<g>
-	<rect x="373.9" y="128.8" class="st3" width="124.3" height="98.8"/>
-	<text transform="matrix(1 0 0 1 408.1768 145.7651)" class="st4 st5 st6">Design</text>
-	<text transform="matrix(1 0 0 1 386.8965 168.5654)" class="st4 st7 st6">How can this </text>
-	<text transform="matrix(1 0 0 1 391.457 191.3652)" class="st4 st7 st6">problem be </text>
-	<text transform="matrix(1 0 0 1 407.8916 214.1655)" class="st4 st7 st6">solved?</text>
-</g>
-<g>
-	<rect x="367.1" y="333.1" class="st3" width="137.9" height="104.3"/>
-	<text transform="matrix(1 0 0 1 418.8184 350.0576)" class="st4 st5 st6">Test</text>
-	<text transform="matrix(1 0 0 1 388.8936 372.8574)" class="st4 st7 st6">The solution </text>
-	<text transform="matrix(1 0 0 1 373.5029 395.6572)" class="st4 st7 st6">makes sense for </text>
-	<text transform="matrix(1 0 0 1 394.7832 418.457)" class="st4 st7 st6">real users?</text>
-</g>
-<g>
-	<text transform="matrix(1 0 0 1 350.0879 313.6577)" class="st7 st8">No</text>
-</g>
-<g>
-	<text transform="matrix(1 0 0 1 139.6205 313.6577)" class="st7 st8">No</text>
-</g>
-<g>
-	<text transform="matrix(1 0 0 1 350.0879 468.5207)" class="st7 st8">Yes</text>
-</g>
-<g>
-	<text transform="matrix(1 0 0 1 22.9455 282.7943)" class="st7 st8">Yes</text>
-</g>
-<g>
-	<text transform="matrix(1 0 0 1 31.0904 56.1581)" class="st7 st8">Information</text>
-</g>
-<circle class="st2" cx="75.6" cy="174.2" r="75.6"/>
-<circle class="st2" cx="75.6" cy="381.5" r="75.6"/>
-<circle class="st2" cx="255.8" cy="469.4" r="75.6"/>
-<g>
-	<rect x="13.5" y="336.8" class="st3" width="124.3" height="98.8"/>
-	<text transform="matrix(1 0 0 1 33.5386 353.8076)" class="st4 st5 st6">Validate &amp; </text>
-	<text transform="matrix(1 0 0 1 39.7134 376.6074)" class="st4 st5 st6">Measure </text>
-	<text transform="matrix(1 0 0 1 27.4585 399.4072)" class="st4 st7 st6">After launch, </text>
-	<text transform="matrix(1 0 0 1 32.1138 422.207)" class="st4 st7 st6">did it work?</text>
-</g>
-<g>
-	<text transform="matrix(1 0 0 1 226.6567 474.3037)" class="st4 st5 st6">Build it</text>
-</g>
-<g>
-	<text transform="matrix(1 0 0 1 33.3149 179.144)" class="st4 st5 st6">Celebrate!</text>
-</g>
-<g>
-	<g>
-		<path class="st0" d="M359.3,338.1c-61.5-29.9-104-92.9-104-165.9"/>
-		<g>
-			<path class="st1" d="M255.3,159.6c2.2,6,6,13.4,10,17.9l-10-3.6l-10,3.6C249.3,172.9,253.1,165.5,255.3,159.6z"/>
-		</g>
-	</g>
-</g>
-<g>
-	<g>
-		<path class="st0" d="M150.7,338.1c61.5-29.9,104-92.9,104-165.9"/>
-		<g>
-			<path class="st1" d="M254.7,159.6c2.2,6,6,13.4,10,17.9l-10-3.6l-10,3.6C248.7,172.9,252.4,165.5,254.7,159.6z"/>
-		</g>
-	</g>
-</g>
-<g>
-	<g>
-		<line class="st0" x1="158" y1="75.1" x2="31.1" y2="75.1"/>
-		<g>
-			<path class="st1" d="M170.6,75.1c-6-2.2-13.4-6-17.9-10l3.6,10l-3.6,10C157.3,81.1,164.7,77.3,170.6,75.1z"/>
-		</g>
-	</g>
+<g id="Layer_2" class="st7">
+	<circle class="st8" cx="266.1" cy="295.8" r="214.9"/>
+	<circle class="st8" cx="266.1" cy="295.8" r="194.1"/>
+	<line class="st8" x1="266.1" y1="530" x2="266.1" y2="61.7"/>
+	<line class="st8" x1="456.5" y1="185.9" x2="75.7" y2="405.8"/>
+	<line class="st8" x1="75.7" y1="185.9" x2="456.5" y2="405.8"/>
 </g>
 </svg>
