@@ -6,7 +6,7 @@ html {
     font-weight: 300;
     font-size: 19px;
     background-color: white;
-    color: #191919;
+    color: #434343;
     line-height: 1.75em;
     }
 
@@ -27,11 +27,12 @@ h1, h2, h3, h4, h5, h6 {
     letter-spacing: -0.5px;
     font-weight: 600;
     line-height: 1.3em;
+     color: black;
 }
 
 
 
-h1{font-size: 46px; margin-bottom: 20px; margin-top: 0}
+h1{font-size: 46px; margin-bottom: 5px; margin-top: 0;}
 
 h2 {font-size: 23px; font-weight: 300; margin-bottom: 60px; margin-top: 0;}
 
@@ -48,11 +49,12 @@ p, ul{
 }
 
 
-a {color: #3399ff; text-decoration: none}
-a:hover {color: #006fdd;}
+a {color: #3399ff;}
 a:visited {color: #3399ff;}
+a:hover {color: #006fdd;}
 
-strong {font-weight: 300;text-decoration: underline;}
+
+strong {font-weight: 400; color: black;}
 
 .screenshot {
     width: 100%;
