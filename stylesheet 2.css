@@ -10,37 +10,35 @@ html {
     line-height: 1.75em;
     }
 
-body {
-    width: 100%;
-    max-width: 100%;   
-    text-align:left;   
+body {width: 100%; max-width: 100%}
+
+article {
+    text-align:center;
+    margin-top: 100px;
 }
 
- 
-h1, h2, h3, h4, h5, h6, p, ul {max-width: 700px; margin: auto;}
+.case{
+    text-align: left;
+}
+
+h1, h2, h3, h4, h5, h6, p, ul {max-width: 720px; margin: auto;}
 
 h1, h2, h3, h4, h5, h6 {
     letter-spacing: -0.5px;
     font-weight: 600;
     line-height: 1.3em;
-    color: black;
+     color: black;
 }
+
 
 
 h1{font-size: 46px; margin-bottom: 5px; margin-top: 0;}
 
-h2 {font-size: 23px; font-weight: 300;; margin-top: 0;}
+h2 {font-size: 23px; font-weight: 300; margin-bottom: 60px; margin-top: 0;}
 
 h3 {font-size: 36px;}
 
 h4 {font-size: 25px;margin-top: 0px;}
-
-#title {text-align: center; margin: 100px 0;}
-
-#symbol {
-    max-width: 180px;
-    margin-bottom: 20px;
-}
 
 p, ul{
     font-family: 'Roboto Slab';
@@ -70,14 +68,15 @@ strong {
 
 .screenshot {
     width: 100%;
-    background-color: #89fffa;
+    background-color: #6affed;
     margin-bottom: 6em;
     margin-top: 6em;
     text-align: center;
-    background: linear-gradient(to bottom, #89fffa 0%, #7cb3f2 100%);
 }
 
-.screenshot:last-of-type {margin-bottom: 0;}
+div.screenshot:nth-of-type(3) {}
+
+.screenshot:last-child {margin-bottom: 0;}
 
 .screenshot img{
     width: 100%; 
@@ -91,61 +90,36 @@ strong {
 
 #process {width:100%; max-width: 580px; padding: 0 40px;}
 
-
-
-/*
-#intro {
-    max-width: 90%;
-    margin: auto;
+#symbol {
+    max-width: 180px;
+    margin-bottom: 30px;
 }
 
-#experience {
-    float: left;
-    display: inline-block;
-    width: 500px;
-    padding: 0 30px;
-}
-
-#text {
-    float: left;
-    display: inline-block;
-    width: calc(100% - 500px);
-    padding: 0px 30px;
-}
-
-#intro p {margin-top: 0; max-width: 100%}
-*/
-
-#intro {text-align: center;}
-
-#experience {margin: auto; margin-top: 76px;}
+h5{font-size: 20px}
 
 ul.experience {
-    display: table;
     text-align: left;
     font-size: 15px;
     list-style: none;
+    max-width: 350px;
+
 }
 
 .experience li {
-    display: table;
-    height: 36px;
-    }
+    display: block;
+    height: 40px;
+}
 
-.experience spam {min-width: 70px}
+.experience p {margin: 0; min-width: 70px}
 
-.experience a, .experience spam {
-    display: inline-block;
-    padding: 0;
-    }
+.experience a, .experience p {float:left;}
 
-.experience spam.job {width: auto;}
+.experience p.job {width: auto}
 
 .experience a {
     color: #434343;
     text-decoration: none;
-    width: 130px;
-    background: none;
+    width: 120px;
     }
 
 .experience a:hover {
@@ -169,10 +143,9 @@ ul.experience {
 }
 
 @media screen and (max-width:500px) {
-    h1 {font-size: 40px; margin-top: }
-    h2 {font-size: 20px;}
-    #title {margin: 70px 0;}
-    #symbol {margin-bottom: 15px;}
+    h1 {font-size: 40px}
+    h2 {font-size: 22px;}
+    
 }
 
 @media screen and (min-aspect-ratio: 3/1) {}
