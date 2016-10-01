@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 763 223.1" style="enable-background:new 0 0 763 223.1;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;opacity:0.2;fill:#FF00AA;enable-background:new    ;}
+	.st2{display:inline;opacity:0.3;fill:#54F5E2;enable-background:new    ;}
+	.st3{display:inline;fill:#231F20;}
+	.st4{font-family:'OpenSans-Semibold';}
+	.st5{font-size:18px;}
+	.st6{display:inline;}
+	.st7{enable-background:new    ;}
+	.st8{fill:#231F20;}
+	.st9{display:inline;fill:none;stroke:#F2EB49;stroke-miterlimit:10;}
+	.st10{font-size:17.5px;}
+	.st11{fill:none;stroke:#54F5E2;stroke-width:7;stroke-miterlimit:10;}
+	.st12{fill:#54F5E2;}
+	.st13{fill:none;stroke:#FF00AA;stroke-width:7;stroke-miterlimit:10;}
+	.st14{fill:#FF00AA;}
+</style>
+<g id="Layer_2_2_" class="st0">
+	<rect x="55.7" y="205.6" class="st1" width="84" height="25.4"/>
+	<rect x="229.2" y="205.6" class="st2" width="102.8" height="25.4"/>
+	<rect x="396.7" y="205.6" class="st1" width="84" height="25.4"/>
+	<rect x="740.7" y="205.6" class="st1" width="84" height="25.4"/>
+	<rect x="563.1" y="205.6" class="st2" width="102.8" height="25.4"/>
+	<rect x="889.1" y="205.6" class="st2" width="102.8" height="25.4"/>
+	<text transform="matrix(1 0 0 1 239.6228 225)" class="st3 st4 st5">Converge</text>
+	<text transform="matrix(1 0 0 1 64.4655 225)" class="st3 st4 st5">Diverge</text>
+	<text transform="matrix(1 0 0 1 573.4899 225)" class="st3 st4 st5">Converge</text>
+	<text transform="matrix(1 0 0 1 405.4655 225)" class="st3 st4 st5">Diverge</text>
+	<text transform="matrix(1 0 0 1 899.4899 225)" class="st3 st4 st5">Converge</text>
+	<text transform="matrix(1 0 0 1 749.4655 225)" class="st3 st4 st5">Diverge</text>
+</g>
+<g id="Layer_3" class="st0">
+	<circle class="st9" cx="-362.9" cy="247.7" r="214.9"/>
+	<rect x="-180.1" y="222.7" class="st9" width="55.8" height="50.1"/>
+</g>
+<g id="Layer_2" class="st0">
+	<circle class="st9" cx="-362.9" cy="247.7" r="214.9"/>
+	<circle class="st9" cx="-362.9" cy="247.7" r="194.1"/>
+	<line class="st9" x1="-362.9" y1="481.9" x2="-362.9" y2="13.6"/>
+	<line class="st9" x1="-172.5" y1="137.8" x2="-553.3" y2="357.7"/>
+	<line class="st9" x1="-553.3" y1="137.8" x2="-172.5" y2="357.7"/>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 41.7537 117.2719)" class="st8 st4 st10">Diverge &amp; Converge</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 300.3452 117.2719)" class="st8 st4 st10">Diverge &amp; Converge</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 552.7117 117.2719)" class="st8 st4 st10">Diverge &amp; Converge</text>
+</g>
+<g>
+	<g>
+		<path class="st11" d="M246.8,128.5c-7.4,47.5-56,84.2-114.8,84.2"/>
+		<g>
+			<path class="st12" d="M247.8,115.9c-2.7,5.8-7.1,12.8-11.5,17l10.3-2.7l9.6,4.5C252.6,129.7,249.5,122,247.8,115.9z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<path class="st11" d="M132,10.3c58.8,0,107.4,36.5,114.8,83.9"/>
+		<g>
+			<path class="st12" d="M247.8,106.9c-2.7-5.8-7.1-12.8-11.5-17l10.3,2.7l9.6-4.5C252.6,93,249.4,100.7,247.8,106.9z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<path class="st13" d="M3.5,106.9c0-49.8,46.4-90.8,106-96"/>
+		<g>
+			<path class="st14" d="M122.2,10.3c-5.8,2.5-13.1,6.6-17.4,10.8l3.1-10.2l-4.1-9.8C108.6,5,116.1,8.4,122.2,10.3z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<path class="st13" d="M109.5,212.2C50,207,3.5,165.9,3.5,115.9"/>
+		<g>
+			<path class="st14" d="M122.2,212.8c-5.8-2.5-13.1-6.6-17.4-10.8l3.1,10.2l-4.1,9.8C108.6,218.1,116.1,214.7,122.2,212.8z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<path class="st13" d="M271.6,108.1c5.6-34.6,49.2-64.3,98.5-70.7"/>
+		<g>
+			<path class="st14" d="M382.7,36.3C377,39.1,370,43.6,365.8,48l2.6-10.3l-4.5-9.6C368.9,31.7,376.6,34.7,382.7,36.3z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<path class="st13" d="M271.6,115.8c5.6,34.6,49.2,64.3,98.5,70.7"/>
+		<g>
+			<path class="st14" d="M382.7,187.6c-6.1,1.6-13.9,4.7-18.8,8.2l4.5-9.6l-2.6-10.3C370,180.3,377,184.8,382.7,187.6z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<path class="st11" d="M495.8,96c-13.7-32-59.2-57.5-107.6-59.6"/>
+		<g>
+			<path class="st12" d="M499.4,108.1c0.4-6.4,1.8-14.5,4.3-20.1l-8.5,6.4l-10.6-0.5C489.8,97.1,495.6,103.1,499.4,108.1z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<path class="st11" d="M495.8,128c-13.7,32-59.2,57.5-107.6,59.6"/>
+		<g>
+			<path class="st12" d="M499.4,115.8c-3.9,5.1-9.6,11-14.8,14.2l10.6-0.5l8.5,6.4C501.2,130.3,499.8,122.2,499.4,115.8z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<path class="st13" d="M515.2,106.4c0,0,24.7-40.1,105.3-44.7"/>
+		<g>
+			<path class="st14" d="M633.2,61.3c-5.9,2.4-13.1,6.5-17.6,10.6l3.2-10.1l-4-9.8C619.6,55.9,627.1,59.4,633.2,61.3z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<path class="st13" d="M515.2,112.5c0,0,24.7,40.1,105.3,44.7"/>
+		<g>
+			<path class="st14" d="M633.2,157.6c-6,2-13.6,5.5-18.3,9.3l4-9.8l-3.2-10.1C620,151.1,627.3,155.2,633.2,157.6z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<path class="st11" d="M751.1,96.9C737.4,83.8,705,61.9,641.5,61.3"/>
+		<g>
+			<path class="st12" d="M759.5,106.4c-2.3-5.9-4.4-14-4.4-20.1l-5.1,9.3l-9.9,3.9C746.1,100.4,753.8,103.4,759.5,106.4z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<path class="st11" d="M751.1,122.1c-13.7,13.1-46.1,34.9-109.6,35.5"/>
+		<g>
+			<path class="st12" d="M759.5,112.5c-5.6,3-13.3,6-19.4,6.8l9.9,3.9l5.1,9.3C755.1,126.5,757.2,118.5,759.5,112.5z"/>
+		</g>
+	</g>
+</g>
+</svg>
